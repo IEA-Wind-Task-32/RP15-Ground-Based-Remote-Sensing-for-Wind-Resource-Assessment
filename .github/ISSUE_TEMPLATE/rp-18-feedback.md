@@ -1,6 +1,6 @@
 ---
-name: RP 18 Feedback
-about: Provide feedback about RP18 to help us update it
+name: RP 15 Feedback
+about: Provide feedback about RP15 to help us update it
 title: "[Feedback]"
 labels: ''
 assignees: ''
@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Section ##
-What section of RP18 does this feedback apply to?
+What section of RP15 does this feedback apply to?
 
 ## Feedback ##
 Please provide us with some more information.
